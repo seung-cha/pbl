@@ -1,0 +1,1 @@
+add_library(Lib STATIC glad.c)
